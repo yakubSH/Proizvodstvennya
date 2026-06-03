@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38700FBC-5259-4527-916A-0997628F3380}|TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.core\\models\\accountingsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38700FBC-5259-4527-916A-0997628F3380}|TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj|solutionrelative:tariffpaymentaccounting.core\\models\\accountingsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38700FBC-5259-4527-916A-0997628F3380}|TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.core\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38700FBC-5259-4527-916A-0997628F3380}|TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj|solutionrelative:tariffpaymentaccounting.core\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|solutionrelative:tariffpaymentaccounting.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\tariffpaymentaccounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|solutionrelative:tariffpaymentaccounting.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|solutionrelative:tariffpaymentaccounting.app\\tariffpaymentaccounting.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|solutionrelative:tariffpaymentaccounting.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{274ED92A-14F8-44CC-9BB7-33BCC1246C98}|TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj|solutionrelative:tariffpaymentaccounting.app\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38700FBC-5259-4527-916A-0997628F3380}|TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj|c:\\users\\rpk20\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u044F\u043A\u0443\u0431\\tariffpaymentaccounting\\tariffpaymentaccounting.core\\models\\accountingsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38700FBC-5259-4527-916A-0997628F3380}|TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj|solutionrelative:tariffpaymentaccounting.core\\models\\accountingsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -38,19 +42,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.Core\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "TariffPaymentAccounting.Core\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.Core\\Models\\Payment.cs",
+              "RelativeToolTip": "TariffPaymentAccounting.Core\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T08:01:13.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccountingSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.Core\\Models\\AccountingSnapshot.cs",
               "RelativeDocumentMoniker": "TariffPaymentAccounting.Core\\Models\\AccountingSnapshot.cs",
               "ToolTip": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.Core\\Models\\AccountingSnapshot.cs",
               "RelativeToolTip": "TariffPaymentAccounting.Core\\Models\\AccountingSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T06:47:34.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TariffPaymentAccounting.App",
               "DocumentMoniker": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj",
               "RelativeDocumentMoniker": "TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.App\\Form1.cs",
               "RelativeDocumentMoniker": "TariffPaymentAccounting.App\\Form1.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rpk20\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u042F\u043A\u0443\u0431\\TariffPaymentAccounting\\TariffPaymentAccounting.App\\Program.cs",
               "RelativeDocumentMoniker": "TariffPaymentAccounting.App\\Program.cs",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -108,8 +125,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ViewState": "AgIAAEMAAAAAAAAAAAAmwK8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-06-03T06:35:38.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T06:35:38.002Z"
             }
           ]
         }
