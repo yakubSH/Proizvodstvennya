@@ -1,0 +1,4 @@
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\publish\TariffPaymentAccounting.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\publish\TariffPaymentAccounting.Core.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\publish\TariffPaymentAccounting.Storage.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\publish\TariffPaymentAccounting.exe

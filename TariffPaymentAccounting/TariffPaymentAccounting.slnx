@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TariffPaymentAccounting.App/TariffPaymentAccounting.App.csproj" />
+  <Project Path="TariffPaymentAccounting.Core/TariffPaymentAccounting.Core.csproj" />
+  <Project Path="TariffPaymentAccounting.Storage/TariffPaymentAccounting.Storage.csproj" />
+</Solution>

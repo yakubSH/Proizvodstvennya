@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net10.0-windows7.0": {
+      "TariffPaymentAccounting.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/TariffPaymentAccounting.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TariffPaymentAccounting.Core.dll": {}
+        }
+      },
+      "TariffPaymentAccounting.Storage/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "TariffPaymentAccounting.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TariffPaymentAccounting.Storage.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TariffPaymentAccounting.Storage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TariffPaymentAccounting.Core/1.0.0": {
+      "type": "project",
+      "path": "../TariffPaymentAccounting.Core/TariffPaymentAccounting.Core.csproj",
+      "msbuildProject": "../TariffPaymentAccounting.Core/TariffPaymentAccounting.Core.csproj"
+    },
+    "TariffPaymentAccounting.Storage/1.0.0": {
+      "type": "project",
+      "path": "../TariffPaymentAccounting.Storage/TariffPaymentAccounting.Storage.csproj",
+      "msbuildProject": "../TariffPaymentAccounting.Storage/TariffPaymentAccounting.Storage.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net10.0-windows7.0": [
+      "TariffPaymentAccounting.Core >= 1.0.0",
+      "TariffPaymentAccounting.Storage >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rpk20\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj",
+      "projectName": "TariffPaymentAccounting",
+      "projectPath": "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.App\\TariffPaymentAccounting.App.csproj",
+      "packagesPath": "C:\\Users\\rpk20\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rpk20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net10.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net10.0-windows7.0": {
+          "targetAlias": "net10.0-windows",
+          "projectReferences": {
+            "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj": {
+              "projectPath": "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.Core\\TariffPaymentAccounting.Core.csproj"
+            },
+            "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.Storage\\TariffPaymentAccounting.Storage.csproj": {
+              "projectPath": "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Якуб\\TariffPaymentAccounting\\TariffPaymentAccounting.Storage\\TariffPaymentAccounting.Storage.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net10.0-windows7.0": {
+        "targetAlias": "net10.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

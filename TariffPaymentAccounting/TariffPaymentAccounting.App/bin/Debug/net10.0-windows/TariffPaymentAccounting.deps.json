@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TariffPaymentAccounting/1.0.0": {
+        "dependencies": {
+          "TariffPaymentAccounting.Core": "1.0.0",
+          "TariffPaymentAccounting.Storage": "1.0.0"
+        },
+        "runtime": {
+          "TariffPaymentAccounting.dll": {}
+        }
+      },
+      "TariffPaymentAccounting.Core/1.0.0": {
+        "runtime": {
+          "TariffPaymentAccounting.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TariffPaymentAccounting.Storage/1.0.0": {
+        "dependencies": {
+          "TariffPaymentAccounting.Core": "1.0.0"
+        },
+        "runtime": {
+          "TariffPaymentAccounting.Storage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TariffPaymentAccounting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffPaymentAccounting.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TariffPaymentAccounting.Storage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

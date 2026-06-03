@@ -1,0 +1,15 @@
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\bin\Release\net10.0\TariffPaymentAccounting.Storage.deps.json
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\bin\Release\net10.0\TariffPaymentAccounting.Storage.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\bin\Release\net10.0\TariffPaymentAccounting.Storage.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\bin\Release\net10.0\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\bin\Release\net10.0\TariffPaymentAccounting.Core.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.csproj.AssemblyReference.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.AssemblyInfoInputs.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.AssemblyInfo.cs
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.csproj.CoreCompileInputs.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPa.EE259995.Up2Date
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\refint\TariffPaymentAccounting.Storage.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\TariffPaymentAccounting.Storage.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Storage\obj\Release\net10.0\ref\TariffPaymentAccounting.Storage.dll

@@ -1,0 +1,22 @@
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\bin\Debug\net10.0\TariffPaymentAccounting.Core.deps.json
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\bin\Debug\net10.0\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\bin\Debug\net10.0\TariffPaymentAccounting.Core.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.AssemblyInfoInputs.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.AssemblyInfo.cs
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\refint\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Новая папка (7)\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\ref\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\bin\Debug\net10.0\TariffPaymentAccounting.Core.deps.json
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\bin\Debug\net10.0\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\bin\Debug\net10.0\TariffPaymentAccounting.Core.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.AssemblyInfoInputs.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.AssemblyInfo.cs
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\refint\TariffPaymentAccounting.Core.dll
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\TariffPaymentAccounting.Core.pdb
+C:\Users\Ramaz\OneDrive\Рабочий стол\Якуб\TariffPaymentAccounting\TariffPaymentAccounting.Core\obj\Debug\net10.0\ref\TariffPaymentAccounting.Core.dll
